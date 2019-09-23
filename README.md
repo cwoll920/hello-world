@@ -1,3 +1,3 @@
 # hello-world
 hello world description
-This is an attempt at git
+this is an attempt at git
